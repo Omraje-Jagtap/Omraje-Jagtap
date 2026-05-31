@@ -37,8 +37,8 @@ Currently, I am leveraging my C foundation and mathematical background to transi
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radium" alt="Om's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radium" alt="Om's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omraje-Jagtap&show_icons=true&theme=radium" alt="Om's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omraje-Jagtap&theme=radium" alt="Om's GitHub Streak" />
 </p>
 
 ---
