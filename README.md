@@ -1,6 +1,6 @@
 # Hi there, I'm Om! 👋
 
-**First-Year Engineering Student | Aspiring AI/ML Engineer**
+**First-Year Engineering Student | AI/ML Engineer**
 📍 Pune, Maharashtra, India
 
 ---
