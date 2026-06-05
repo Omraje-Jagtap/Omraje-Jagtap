@@ -45,6 +45,6 @@ Currently, I am leveraging my C foundation and mathematical background to transi
 
 ### 📫 Let's Connect!
 - **Email:** [Omjagtap1222008@gmail.com](mailto:Omjagtap1222008@gmail.com)
-
+- **Instagram** https://www.instagram.com/omraje__jagtap
 ---
 💡 *"Building scalable AI requires a foundation built on solid logic and mathematics."*
