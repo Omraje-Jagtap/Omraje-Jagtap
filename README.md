@@ -1,50 +1,87 @@
-# Hi there, I'm Om! 👋
+<div align="center">
 
-**second-Year Engineering Student | AI/ML Engineer**
+# Hi there, I'm Om Jagtap 👋
+### Second-Year Engineering Student • Aspiring AI/ML Engineer
+
 📍 Pune, Maharashtra, India
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=Omraje-Jagtap&color=6a5acd&style=for-the-badge&label=PROFILE+VIEWS)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Omjagtap1222008@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omraje__jagtap)
 
-### 👨‍💻 Info About Me
-I am a learner-first developer currently building a strong, ground-up foundation in logic and problem-solving. I am exploring Artificial Intelligence, studying how AI tools function, and actively leveraging platforms like **Gemini, Claude, and Cursor** to accelerate my learning and enhance my education. My ultimate goal is to build intelligent systems, and I believe in mastering the core logic of a language before rushing into complex frameworks.
+</div>
 
----
+<br>
 
-### 🚀 My Journey
-I started my programming journey with the **C programming language**, where I am now highly proficient. Writing fundamental logic programs in C taught me how computers manage memory and execute logic at a fundamental level. Alongside programming, I have cultivated a strong foundation in high-level mathematics—specifically in areas such as Calculus, Probability, Differentiation, and Integration.
+## 👨‍💻 About Me
 
----
+I'm a learner-first developer building AI/ML expertise from the ground up — logic and problem-solving first, frameworks second. I'm pursuing an engineering with a path toward a bachelor's degree, and I use tools like **ChatGPT**, **Gemini**, **Claude**, and **Cursor** deliberately: as accelerators for understanding, not replacements for it.
 
-### 🎯 Current Focus
-Currently, I am leveraging my C foundation and mathematical background to transition into **Python**. I am focusing on mastering Python's core syntax and diving into data science libraries like **NumPy and Pandas** that are highly relevant to my career path. My current focus is completely dedicated to acquiring these specific skills so that I can become a competent, industry-ready AI/ML Engineer.
-* 🛠️ **Currently Building:** storng logic in python and its libraries
----
+My long-term goal is to build intelligent systems. I believe that goal is best served by mastering how a language actually works before reaching for the libraries that abstract it away.
 
-### 🛠️ Skills & Tools
+## 🚀 My Journey
+
+I started with **C**, not Python — and that choice was intentional. Writing fundamental logic in C forced me to understand how computers manage memory and execute instructions at a low level: pointers, manual memory handling, and control flow with no safety net.
+
+That foundation is now paying off. Alongside C, I built a solid base in higher mathematics — **calculus, probability, differentiation, and integration** — the language that machine learning is actually written in. Where most beginners jump straight into high-level Python syntax, I can reason about *why* the code works, not just *how* to write it. That's the advantage I'm carrying into every Python and data-science library I learn next.
+
+## 🎯 Current Focus
+
+Currently channeling my C foundation and math background into **Python** — mastering core syntax first, then moving into the data-science libraries most relevant to AI/ML work.
+
+* 🛠️ **Currently Building:** Strong logical foundations in Python, extending into **NumPy** and **Pandas**
+* 📈 **Next Milestone:** Applying core Python skills to real data-science workflows
+
+## 📂 Featured Repo
+
+| Project | What It Is | Highlights |
+|---|---|---|
+| **[C-Programming-Basics](https://github.com/Omraje-Jagtap/C-Programming-Basics)** | 30+ C programs covering foundational logic and memory management | Organized by topic — Loops, Arrays, Functions, Pointers |
+| **[Python-Core-Learning](https://github.com/Omraje-Jagtap/Python-Core-Learning)** | Structured, ongoing progression through Python fundamentals, OOP, and file I/O | Includes a dedicated HackerRank practice folder |
+
+## 🧰 Skills & Tools
+
+**Languages & Libraries**
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="45" alt="C" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="45" alt="NumPy" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="45" alt="Pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini" height="45" alt="Gemini" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/claude" height="45" alt="Claude" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cursor/000000" height="45" alt="Cursor" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="C" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="NumPy" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="Pandas" />
 </p>
 
----
+**AI-Assisted Development**
 
-### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omraje-Jagtap&show_icons=true&theme=radium" alt="Om's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omraje-Jagtap&theme=radium" alt="Om's GitHub Streak" />
+  <img src="https://cdn.simpleicons.org/openai" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="ChatGPT" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="Gemini" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claude" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="Claude" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cursor" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="Cursor" />
 </p>
 
----
+**Tools & Platforms**
 
-### 📫 Let's Connect!
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="VS Code" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="GitHub" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omraje-Jagtap&theme=dark&hide_border=true" alt="Om's GitHub Streak" height="165" />
+</p>
+
+## 📫 Let's Connect
+
 - **Email:** [Omjagtap1222008@gmail.com](mailto:Omjagtap1222008@gmail.com)
-- **Instagram** https://www.instagram.com/omraje__jagtap
----
-💡 *"Building scalable AI requires a foundation built on solid logic and mathematics."*
+- **Instagram:** [@omraje__jagtap](https://www.instagram.com/omraje__jagtap)
+
+<br>
+
+<div align="center">
+
+*"Building scalable AI requires a foundation built on solid logic and mathematics."*
+
+</div>
