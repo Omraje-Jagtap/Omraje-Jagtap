@@ -36,7 +36,7 @@ Currently channeling my C foundation and math background into **Python** — mas
 
 | Project | What It Is | Highlights |
 |---|---|---|
-| **[C-Programming-Basics](https://github.com/Omraje-Jagtap/C-Programming-Basics)** | 30+ C programs covering foundational logic and memory management | Organized by topic — Loops, Arrays, Functions, Pointers |
+| **[C-Programming.](https://github.com/Omraje-Jagtap/C-Programming.)** | 30+ C programs covering foundational logic and memory management | Organized by topic — Loops, Arrays, Functions, Pointers |
 | **[Python-Core-Learning](https://github.com/Omraje-Jagtap/Python-Core-Learning)** | Structured, ongoing progression through Python fundamentals, OOP, and file I/O | Includes a dedicated HackerRank practice folder |
 
 ## 🧰 Skills & Tools
