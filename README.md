@@ -77,6 +77,7 @@ Currently channeling my C foundation and math background into **Python** — mas
 
 - **Email:** [Omjagtap1222008@gmail.com](mailto:Omjagtap1222008@gmail.com)
 - **Instagram:** [@omraje__jagtap](https://www.instagram.com/omraje__jagtap)
+- **Credly Profile:** [Verified Badges & Certifications](https://www.credly.com/users/om-jagtap.8441ab6d)
 
 <br>
 
