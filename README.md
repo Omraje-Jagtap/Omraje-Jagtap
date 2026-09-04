@@ -8,7 +8,7 @@
 <img src="assets/photo-animated.svg" width="220" alt="Om Jagtap">
 <br>
 
-# Hi there, I'm Om Jagtap 👋
+# Hi there, I'm Om Jagtap 👋🏻
 ### Second-Year Engineering Student • Aspiring AI/ML Engineer
 
 📍 Pune, Maharashtra, India
@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a learner-first developer building AI/ML expertise from the ground up — logic and problem-solving first, frameworks second. I'm pursuing an engineering diploma with a path toward a bachelor's degree, and I use tools like **ChatGPT**, **Gemini**, **Claude**, and **Cursor** deliberately: as accelerators for understanding, not replacements for it.
+I'm a learner-first developer building AI/ML expertise from the ground up — logic and problem-solving first, frameworks second. I'm pursuing an engineering with a path toward a bachelor's degree, and I use tools like **ChatGPT**, **Gemini**, **Claude**, and **Cursor** deliberately: as accelerators for understanding, not replacements for it.
 
 My long-term goal is to build intelligent systems. I believe that goal is best served by mastering how a language actually works before reaching for the libraries that abstract it away.
 
@@ -40,13 +40,12 @@ Currently channeling my C foundation and math background into **Python** — mas
 * 🛠️ **Currently Building:** Strong logical foundations in Python, extending into **NumPy** and **Pandas**
 * 📈 **Next Milestone:** Applying core Python skills to real data-science workflows
 
-## 📂 Featured Projects
+## 📂 Featured Repo
 
 | Project | What It Is | Highlights |
 |---|---|---|
-| **[C-Programming-Basics](https://github.com/Omraje-Jagtap/C-Programming-Basics)** | 30+ C programs covering foundational logic and memory management | Organized by topic — Loops, Arrays, Functions, Pointers |
+| **[C-Programming.](https://github.com/Omraje-Jagtap/C-Programming.)** | 30+ C programs covering foundational logic and memory management | Organized by topic — Loops, Arrays, Functions, Pointers |
 | **[Python-Core-Learning](https://github.com/Omraje-Jagtap/Python-Core-Learning)** | Structured, ongoing progression through Python fundamentals, OOP, and file I/O | Includes a dedicated HackerRank practice folder |
-
 
 ## 🧰 Skills & Tools
 
@@ -86,6 +85,7 @@ Currently channeling my C foundation and math background into **Python** — mas
 
 - **Email:** [Omjagtap1222008@gmail.com](mailto:Omjagtap1222008@gmail.com)
 - **Instagram:** [@omraje__jagtap](https://www.instagram.com/omraje__jagtap)
+- **Credly Profile:** [Verified Badges & Certifications](https://www.credly.com/users/om-jagtap.8441ab6d)
 
 <br>
 
