@@ -37,7 +37,7 @@ That foundation is now paying off. Alongside C, I built a solid base in higher m
 
 Currently channeling my C foundation and math background into **Python** — mastering core syntax first, then moving into the data-science libraries most relevant to AI/ML work.
 
-* 🛠️ **Currently Building:** Strong logical foundations in Python, extending into **NumPy** and **Pandas**
+* 🛠️ **Currently Building:** Strong logical foundations in Python, extending into **NumPy**,**Pandas** and **Matplotlib**
 * 📈 **Next Milestone:** Applying core Python skills to real data-science workflows
 
 ## 📂 Featured Repo
@@ -56,6 +56,7 @@ Currently channeling my C foundation and math background into **Python** — mas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="Python" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="NumPy" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="Pandas" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50" style="border-radius:50%;background:#f0f0f0;padding:8px;" alt="Matplotlib" title="Matplotlib" />&nbsp;&nbsp;
 </p>
 
 **AI-Assisted Development**
