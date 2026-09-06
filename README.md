@@ -62,10 +62,11 @@ Currently channeling my C foundation and math background into **Python** — mas
 **AI-Assisted Development**
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/openai" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="ChatGPT" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/openai.svg" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="ChatGPT" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlegemini" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="Gemini" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/claude" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="Claude" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cursor" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="Cursor" />
+  <img src="https://cdn.simpleicons.org/cursor" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="Cursor" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-copilot.svg" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="Microsoft Copilot" />
 </p>
 
 **Tools & Platforms**
@@ -73,7 +74,8 @@ Currently channeling my C foundation and math background into **Python** — mas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="VS Code" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/hackerrank.svg" width="50" height="50" style="border-radius:50%;background:#ffffff;padding:8px;" alt="HackerRank" />
 </p>
 
 ## 📊 GitHub Stats
