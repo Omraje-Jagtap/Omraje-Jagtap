@@ -94,6 +94,6 @@ Currently channeling my C foundation and math background into **Python** — mas
 
 <div align="center">
 
-*"Building scalable AI requires a foundation built on solid logic and mathematics."*
+*"Building scalable AI requires a foundation built on solid logic and mathematics"*
 
 </div>
